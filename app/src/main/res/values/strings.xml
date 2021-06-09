@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login-Ifsp</string>
+    <string-array name ="sexo">
+        <item> Feminino</item>
+        <item> Masculino</item>
+    </string-array>
+</resources>
